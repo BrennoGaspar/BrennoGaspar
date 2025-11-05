@@ -21,7 +21,7 @@
 
 ---
 
-<h3 align="center">📈 Estatísticas</h3>
+<h3 align="center">📊 Perfil Técnico</h3>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=BrennoGaspar&show_icons=true&theme=tokyonight" alt="Estatísticas do GitHub"/>
