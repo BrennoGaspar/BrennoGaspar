@@ -1,9 +1,9 @@
 <h1 align="center">👋 Olá, eu sou o Brenno!</h1>
 
 <p align="center">
-  🎓 Estudante de <strong>Ciência da Computação</strong> — 2º semestre no <strong>IFSP</strong><br>
+  🎓 Estudante de <strong>Ciência da Computação</strong> — 3º semestre no <strong>IFSP</strong><br>
   🎯 Sou formado no ensino médio integrado ao <strong>técnico em TI</strong>, pelo Colégio ENIAC<br>
-  💡 Tenho 18 anos e sou apaixonado por tecnologia, estudos e desenvolvimento de software<br>
+  💡 Tenho 19 anos e sou apaixonado por tecnologia, estudos e desenvolvimento de software<br>
 </p>
 
 ---
